@@ -1,0 +1,19 @@
+.paragraph1{
+    color: brown;
+}
+
+#paragraph2{
+    color: cornflowerblue;
+}
+input[type="text"]{
+    background-color: blue;
+}
+input[type="password"]{
+    background-color: black;
+}
+ol>li{
+    color: blueviolet;
+}
+a:hover{
+    color: orange;
+}
